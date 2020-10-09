@@ -3,3 +3,4 @@ En esta rama (desarrollo2) del repositorio esta alojada la solucion de la optimi
 octubre de 2020. 
 Estudiante: Andrea Maria Navas Martinez. 
 CIF: 2017010565. 
+link de video: https://youtu.be/9tQdWKZXMiA 
